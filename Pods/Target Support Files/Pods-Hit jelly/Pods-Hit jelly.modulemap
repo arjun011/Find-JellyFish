@@ -1,0 +1,6 @@
+framework module Pods_Hit_jelly {
+  umbrella header "Pods-Hit jelly-umbrella.h"
+
+  export *
+  module * { export * }
+}
